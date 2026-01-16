@@ -270,7 +270,7 @@ const Contact = () => {
               {/* Google Map */}
               <div className="rounded-2xl overflow-hidden shadow-lg">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.5977289392!2d75.7785863!3d26.8543897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5bb5ce88ff7%3A0x8c9a0e3d7c8f8a0e!2sVijayvergiya%20Motor%20Driving%20School!5e0!3m2!1sen!2sin!4v1640000000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.9999999999995!2d75.7789827!3d26.8668031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db44b54000001%3A0xb0df1adc246d80b4!2sVijayvergiya%20Motor%20Driving%20School!5e0!3m2!1sen!2sin!4v1705460000000!5m2!1sen!2sin"
                   width="100%"
                   height="350"
                   style={{ border: 0 }}
